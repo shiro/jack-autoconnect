@@ -12,7 +12,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d420fb82-1392-450a-a697-c83376b93d95" name="Default Changelist" comment="" />
+    <list default="true" id="d420fb82-1392-450a-a697-c83376b93d95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,9 +101,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="653" y="182" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1585567701817" />
-    <state x="627" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1585575559344">
+    <state x="627" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1585579087881">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="627" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1585575559344" />
+    <state x="627" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1585579087881" />
   </component>
 </project>

@@ -8,4 +8,3 @@ edition = "2018"
 
 [dependencies]
 jack = { git = "https://github.com/RustAudio/rust-jack.git" }
-jack-sys = { git = "https://github.com/RustAudio/rust-jack.git", path = "./jack-sys" }
