@@ -1,10 +1,8 @@
 extern crate jack;
-extern crate jack_sys;
 
 use std::io;
 use std::sync::{mpsc, Mutex};
 use jack::{Control, Client};
-use jack_sys::jack_get_ports;
 
 fn main() {
     let (client, _status) =
