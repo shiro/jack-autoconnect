@@ -28,5 +28,5 @@ check() {
 package() {
   cd $pkgname
   install -Dt "$pkgdir/usr/bin" target/release/jack-autoconnect
-  install -Dt "$pkgdir/usr/share/doc/$pkgname" -m644 README
+  install -Dt "$pkgdir/usr/share/doc/$pkgname" -m644 README.md
 }
