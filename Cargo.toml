@@ -1,0 +1,11 @@
+[package]
+name = "jack-autoconnect"
+version = "0.1.0"
+authors = ["shiro <shiro@usagi.io>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+jack = { git = "https://github.com/RustAudio/rust-jack.git" }
+jack-sys = { git = "https://github.com/RustAudio/rust-jack.git", path = "./jack-sys" }
