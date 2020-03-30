@@ -8,3 +8,6 @@ edition = "2018"
 
 [dependencies]
 jack = { git = "https://github.com/RustAudio/rust-jack.git" }
+xdg = "^2.1"
+json = "0.12.4"
+
