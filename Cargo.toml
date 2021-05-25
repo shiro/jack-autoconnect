@@ -10,4 +10,6 @@ edition = "2018"
 jack = { git = "https://github.com/RustAudio/rust-jack.git" }
 xdg = "^2.1"
 json = "0.12.4"
+anyhow = "1.0.40"
+regex = "1.5.4"
 
